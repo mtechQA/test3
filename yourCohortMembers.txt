@@ -1,4 +1,13 @@
 The time or name of your cohort:
-
+yourCohortMyFork
 
 First names of all your cohort classmates:
+Hamlet
+Charles
+Ezra
+Stephen
+Kevin
+Lauren
+Gunner
+Jonathan
+Sarah
